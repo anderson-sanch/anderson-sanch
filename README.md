@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left"># ¡Hola 👋, soy Anderson Alejanro Sanchez Martinez!<br>🚀 Desarrollador Web | Creando aplicaciones escalables y eficientes</p>
+<p align="left"># ¡Hola 👋, soy Anderson Alejandro Sanchez Martinez!<br>🚀 Desarrollador Web | Creando aplicaciones escalables y eficientes</p>
 
 ###
 
